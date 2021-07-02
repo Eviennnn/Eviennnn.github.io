@@ -1,6 +1,6 @@
 title: Eviennnn                 # title of the site
 description: Log my code     # description of the site
-url: https://Eviennnn.github.io # domain
+url: https://eviennnn.github.io # domain
 baseurl: ""                # root directory
 
 # Path of site resources
@@ -24,7 +24,7 @@ defaults:
     values:
       layout: "post"
 
-disqus: Eviennnn
+disqus: eviennnn
 email: EvienChan@163.com
 
 socials:
@@ -38,7 +38,7 @@ nav:
   path: /
 - name: Project
   path: /pages/project.html
-  - name: LeetCode
+- name: LeetCode
   path: /pages/LeetCode.html
 - name: About
   path: /pages/about.html
