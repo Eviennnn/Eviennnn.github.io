@@ -4,8 +4,8 @@ url: https://eviennnn.github.io # domain
 baseurl: ""                # root directory
 
 # Path of site resources
-img: /log/assets/img
-css: /log/assets/css
+img: /assets/img
+css: /assets/css
 
 ## Docs: https://pages.github.com/versions/
 plugins:
